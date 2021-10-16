@@ -1,0 +1,30 @@
+{
+    "additionalUserInfo":{
+        "isNewUser":true
+    },
+    "user":{
+        "metadata":{
+            "lastSignInTime":1632371174007,
+            "creationTime":1632371174007
+        },
+        "phoneNumber":null,
+        "displayName":null,
+        "isAnonymous":false,
+        "providerData":[
+            {
+                "email":"a1@abc.com",
+                "phoneNumber":null,
+                "uid":"a1@abc.com",
+                "photoURL":null,
+                "displayName":null,
+                "providerId":"password"
+            }
+        ],
+        "email":"a1@abc.com",
+        "emailVerified":false,
+        "providerId":"firebase",
+        "tenantId":null,
+        "photoURL":null,
+        "uid":"mnXFQlVyg7UDbi9dyNo1IC3QyB63"
+    }
+}

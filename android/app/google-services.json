@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133436317021",
+    "project_id": "chat61-1",
+    "storage_bucket": "chat61-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133436317021:android:3f58d7949cc109c62b9cb4",
+        "android_client_info": {
+          "package_name": "com.anychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133436317021-jtn6enn1ii64r1u7i0l5faj4pbnkpeo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQhwzUG9OOpG7mEbCdeHYnrJ4fNX2Wyig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133436317021-jtn6enn1ii64r1u7i0l5faj4pbnkpeo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
